@@ -41,4 +41,9 @@ nslookup
 set debug
 set type=ns
 google.com
-~~~
+
+nslookup
+set debug
+set type=txt
+google.com
+```
