@@ -47,3 +47,10 @@ set debug
 set type=txt
 google.com
 ```
+
+## zone transfer
+nslookup
+website.com
+server [ns serer of website]
+type=ANY
+ls -d google.com
