@@ -49,8 +49,10 @@ google.com
 ```
 
 ## zone transfer
+```
 nslookup
 website.com
 server [ns serer of website]
 type=ANY
 ls -d google.com
+```
